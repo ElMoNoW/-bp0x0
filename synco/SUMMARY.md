@@ -1,4 +1,4 @@
 # Table of contents
 
 * [About](README.md)
-* [Burningnumbes](BN.md)
+* [BurningNumbes](BN.md)
