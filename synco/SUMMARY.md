@@ -2,3 +2,4 @@
 
 * [About](README.md)
 * [BurningNumbes](BN.md)
+* [CollectingNumbers](CN.md)
