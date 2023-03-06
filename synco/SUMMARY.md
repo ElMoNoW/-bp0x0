@@ -15,43 +15,43 @@
 
 ## Assets Guides
 
-* [📪 Hands on Keys](product-guides/wallets_to_use.md)
-* [📎 Hands on BoboValue](product-guides/info_bobovalue.md)
+* [📪 Hands on Keys (Wallet Select) ](product-guides/wallets_to_use.md)
+* [📎 Hands on BoboValue NFTS](product-guides/info_bobovalue.md)
 * [📎 Hands on NFTS](product-guides/nfts.md)
 * [📎 Hands on Tokens@bobocoin.gm](product-guides/tokens.md)
 
-## Fundamentals_NFTs
-
-* [🛠 Getting set up](fundamentals/getting-set-up/READMEnfts.md)
-  * [📝 Stake NFTS for Tokens@bobocoin.gm](fundamentals/getting-set-up/nft.md)
-  * [🧑 Level Up 0 two for one](fundamentals/getting-set-up/twoforone.md)
-  * [🧑 Collect 0a one for one](fundamentals/getting-set-up/oneforone.md)
-  * [📝 PayBack Liquid Tokens for WAX](fundamentals/getting-set-up/payback.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-
 ## Fundamentals_FTs
 
-* [🛠 Getting set up](fundamentals/getting-set-up/READMEfts.md)
+* [🛠 Getting set up](fundamentals/getting-set-up/READMEnfts.md)
+  * [🧑 Tokens@bobocoin.gm](fundamentals/getting-set-up/tokenslist.md)
+  * [🧑 Swap Family Tokens@bobocoin.gm](fundamentals/getting-set-up/swapfam.md)
   * [📝 Stake NFTS for Tokens@bobocoin.gm](fundamentals/getting-set-up/nft.md)
-  * [🧑 Level Up 0 two for one](fundamentals/getting-set-up/twoforone.md)
-  * [🧑 Collect 0a one for one](fundamentals/getting-set-up/oneforone.md)
+  * [🧑 NFTS for Tokens@bobocoin.gm (Blend) ](fundamentals/getting-set-up/tfo.md)
+  * [🧑 POOLs WE Love](fundamentals/getting-set-up/ofo.md)
   * [📝 PayBack Liquid Tokens for WAX](fundamentals/getting-set-up/payback.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+
+## Fundamentals_NFTs
+
+* [🛠 Getting set up](fundamentals/getting-set-up/READMEfts.md)
+  * [📝 RAM](fundamentals/getting-set-up/nft.md)
+  * [📝 Free5MinDrop](fundamentals/getting-set-up/f5md.md)
+  * [🧑 Level Up 0 two for one](fundamentals/getting-set-up/tfo.md)
+  * [🧑 Collect 0a one for one](fundamentals/getting-set-up/ofo.md)
+  * [🧑 NFTS_Package of BoboPixel0x0](fundamentals/getting-set-up/package.md)
 
 ## Fundamentals_Discord
 
 * [🛠 Getting set up](fundamentals/getting-set-up/READMEdiscord.md)
-  * [📝 Commands_Creator](fundamentals/getting-set-up/nft.md)
-  * [📝 Commands_User](fundamentals/getting-set-up/nft.md)
-  * [🧑 BOT Add-ons ](fundamentals/getting-set-up/twoforone.md)
+  * [📝 Commands_Creator](fundamentals/getting-set-up/cc.md)
+  * [📝 Commands_User](fundamentals/getting-set-up/cu.md)
+  * [🧑 BOT Add-ons ](fundamentals/getting-set-up/botaddon.md)
   * [🧑 BAN Tokens Arrived](fundamentals/getting-set-up/banano.md)
-  * [📝 Level System](fundamentals/getting-set-up/payback.md)
-  * [📝 Categorys](fundamentals/getting-set-up/payback.md)
-  * [📝 Channels](fundamentals/getting-set-up/payback.md)
-  * [📝 Rolls](fundamentals/getting-set-up/payback.md)
-  * [🧑 Stats](fundamentals/getting-set-up/inviting-members.md)
-  * [📝 Servers](fundamentals/getting-set-up/payback.md)
+  * [📝 Level System](fundamentals/getting-set-up/lvlsystem.md)
+  * [📝 Categorys](fundamentals/getting-set-up/cat.md)
+  * [📝 Channels](fundamentals/getting-set-up/cha.md)
+  * [📝 Rolls](fundamentals/getting-set-up/rol.md)
+  * [🧑 Stats](fundamentals/getting-set-up/display.md)
+  * [📝 Servers](fundamentals/getting-set-up/serverlist.md)
 
 ## Use Cases
 
@@ -60,6 +60,6 @@
   * [📝 Hands on Tools](fundamentals/getting-set-up/handsontools.md)
 
 * [🖥 For Developers](use-cases/for-developers.md)
-  * [🧑 Like to Own a Server](fundamentals/getting-set-up/serverowner.md)
+  * [🧑 Like to Own](fundamentals/getting-set-up/owner.md)
   * [📝 Servers](fundamentals/getting-set-up/discordserverlist.md)
 
