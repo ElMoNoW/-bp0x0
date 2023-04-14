@@ -12,3 +12,7 @@ BoboPixel0x0 Digital Assets Collection make a New Note in the Jungle with Value 
 
 As many Side Projects Make it even Richer for all you might check out
 {% embed url="https://bobopixel0x0.wordpress.com/" %}
+
+And New {% embed url="https://bp0x0abc.home.blog/" %} And... {% embed url="https://fakeingheros.wordpress.com/" %} And... {% embed url="https://coffeeoxo.wordpress.com/" %} And... {% embed url="https://spaceoxo.wordpress.com/" %} And... 1% Done {% embed url="https://dissociativeentityswitcher.wordpress.com/" %} And {% embed url="https://thelasthuman.data.blog/" %} And... 0% done may on paper... School we Teach you with certificate Characters: Poker - Pixels - Marbles Code on NFTS
+
+As I come back here to update...
