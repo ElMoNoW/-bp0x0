@@ -14,3 +14,7 @@ Or use this Quick Link Transfer WAX to Refill RAM!
 
 To Refill Blends and Neftyblocks Related RAM  Quick Link!
 {% embed url="https://neftyblocks.com/creator/bobopixeloxo" %}
+
+Or send Amount WAX to blenderizerx with memo: bobopixeloxo
+
+Have fun...
