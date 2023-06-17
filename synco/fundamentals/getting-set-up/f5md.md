@@ -1,20 +1,14 @@
-#   Free5MinDrop
+Free5MinDrop
+Introducing the Free5MinDrop, where you can claim NFTs every 5 minutes. RAM needs to be refilled for bots to claim, ensuring a rescue in view. #bpaxz 😉
 
-RAM has to be Refilled BOTs can Claim to and they do it For sure every 5 Minutes Rescue in view #bpaxz ;)
+You can participate in the Free5MinDrop by following these steps:
 
-This is The Free5MinDrop
-{% embed url="https://wax.atomichub.io/drops/4849+4848" %}
+Refill RAM: Send 154kb in RAM, which costs around 0.1 WAX. You can check the price for 154kb at AtomicHub and purchase RAM accordingly. Send the required amount of WAX to atomicdropsx with the Memo: deposit_collection_ram:bobopixeloxo.
 
+Quick Link to transfer WAX to refill RAM: Refill RAM
 
-How:
-Send 154kb in RAM 1 NFTS around 0.1 WAX you can check the price for 154kb at AtomicHub buy RAM look how much you need and send than  WAX to **atomicdropsx** with Memo: **deposit_collection_ram:bobopixeloxo**
+Refill Blends and Neftyblocks-related RAM: If you need to refill RAM specifically for blends and Neftyblocks, you can use the quick link provided here: Blends and Neftyblocks RAM Refill.
 
-Or use this Quick Link Transfer WAX to Refill RAM!
-{% embed url="https://wax.atomichub.io/trading/token-transfer?partner=atomicdropsx&quantity=0.20000000_WAX&memo=deposit_collection_ram:bobopixeloxo" %}
+Blenderizerx: You can also send the desired amount of WAX to blenderizerx with the memo: bobopixeloxo.
 
-To Refill Blends and Neftyblocks Related RAM  Quick Link!
-{% embed url="https://neftyblocks.com/creator/bobopixeloxo" %}
-
-Or send Amount WAX to blenderizerx with memo: bobopixeloxo
-
-Have fun...
+Enjoy claiming your NFTs and have fun participating in the Free5MinDrop!
