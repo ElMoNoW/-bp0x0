@@ -1,98 +1,32 @@
-# All about BoboPixel0x0 
+All about BoboPixel0x0
+Welcome to the world of BoboPixel0x0, where digital assets come to life and offer an exciting and valuable experience. Here's an overview of what BoboPixel0x0 has to offer:
 
-Digital Assets Overview
+Collection: BoboPixel0x0_by_BoBoCoin
+Since 2021, BoboPixel0x0 has been creating a tokenized deflationary asset ladder with a vast collection of NFTs to trade and use in the Discord RPG. These NFTs hold increasing value, and you have the choice to keep or sell your special mint numbers while burning the rest. Level up, blend NFTs, and aim to reach the highest level of 25. Explore our collection and discover the world of BoboPixel0x0.
 
-Collection
+Check out our special limited edition NFTs on Neftyblocks Blends. These NFTs come in a variety of colors, styles, and rarities, offering even more value and excitement. Please note that this NFT game is RAM intensive, providing you with an immersive experience.
 
-BoBoPixel0x0_by_BoBoCoin 
-Since 2021
-#bp0x0 bobopixeloxo
+Free5MinDrop and Member Pass
+The main idea behind BoboPixel0x0 is the concept of getting a free NFT every 5 minutes. Participate in the Free5MinDrop to claim your free NFTs. However, you can also become a special player with additional benefits by obtaining a Member Pass or by sending WAXP to "atomicdropsx" with the memo "deposit_collection_ram:bobopixeloxo" to help refill RAM for everyone to drop more NFTs.
 
-Is a Tokenized Deflationary Asset Creation ladder, with a huge Collection to Trade and use on Discord RPG minted as NFTs Ladder with increasing Value. 
-**Keep or sell your special mint numbers and burn the rest** to lvl up, blend 2 for one, make a 1 out of two 0's and so on till 25. Get them all.
+MVORPG (Multi-Value Online Roll Play Game Discord)
+Experience our unique RPG game function in Discord with the name @Bobtherobot. Join our Discord server to discover exciting RPG game events related to #bp0x0. We have new NFTs arriving, including packages for random castles, package quality quantity, package tools giveaway, package item box, package blueprint, package member pass, package tokenized, package COFFEE@bobocoin.gm, and mystery packages from Vol.3 to Vol.15.
 
-[Neftyblocks Blends](https://neftyblocks.com/creator/bobopixeloxo)  
+To start earning valuable tokens, check out the following links:
 
-**Special Limited Edition NFT**s More Colors More Style More Rarity More Value More #BP0x0-0's. 
-Infinity Drop - this NFT game is RAM Intensive.
+Earning BOPIXBO@bobocoin.gm: $take #BP0x0 NFTs
+Earning ROCK@bobocoin.gm: $take #BP0x0 rock.oxo NFTs
+Earning SCISSOR@bobocoin.gm: $take #BP0x0 scissor.oxo NFTs
+Earning PAPER@bobocoin.gm: $take #BP0x0 paper.oxo NFTs
+Earning WAX PAYBACK program: $take BOPIGOL@alcore.token
+Join the BoboCoin Discord server and use your #bpoxo tools to play the game and earn #BP0x0 NFTs. Visit the "Discord BoboCoin's Server" for more information.
 
-**0** for free every 5 minutes - Is the Main Idea. [Free5MinDrop](https://wax.atomichub.io/drops/4849+4848+4990+4988+4989+4994+4849)
-But the Reality is Get Member Pass and Be a special Player with benefits or send WAXP For Free 5MinDrops Refill RAM for all to drop more
-To:
-atomicdropsx
-Memo:
-deposit_collection_ram:bobopixeloxo
+Don't forget to watch BoboPixel0x0's live stream on Twitch and redeem your points for NFTs, including the special NFT #BP0x0-13 (also available in packages).
 
-**MVORPG** Is a Roll Play Game NFT Funktion Robot in **D**iscor**d** with the name @Bobtherobot. If you want to check out #bp0x0 have a look RPG Game Events in Discort. The New NFTS arrived
-Package for random Castle arrived, 
-Package Quality Quantity arrived,
-Package Tools Giveaway,
-Package Item Box arrived,
-Package Blueprint arrived,
-Package MemberPass arrived,
-Package Tokenized arrived,
-Package COFFEE@bobocoin.gm arrived,
+Supporting the #BP0x0RAM is crucial for the game to drop and blend NFTs. Visit the NeftyBlender for all your blending needs.
 
-Mystery Package @Vol..3 - Vol.15 (1 WAX)
+For more information and updates about BoboPixel0x0, join our Discord server. You can also follow us on Twitter for news and fishing updates.
 
+Explore the world of BoboPixel0x0 and embark on an exciting adventure. Visit our WordPress quest at WordPress Info to learn more about our NFTs, schemes, templates, drops, blends, staking pools, token economy, base tokens, open market tokens, and swap pairs.
 
-
-["**M**ulty**V**alue**O**nline **R**oll**P**lay**G**ame**Discord**"](https://discord.gg/QWQgeXN2Tm)
-
-Earning BOPIXBO@bobocoin.gm Active,
-["$take **#BP0x0 NFTS**"](https://waxdao.io/farm/bobopixeloxo)
-Earning ROCK@bobocoin.gm Active,
-["$take **#BP0x0 rock.oxo NFTS**"](https://waxdao.io/farm/rock.oxo)
-Earning SCISSOR@bobocoin.gm Active,
-["$take **#BP0x0 scissor.oxo NFTS**"](https://waxdao.io/farm/scissor.oxo)
-Earning PAPER@bobocoin.gm Active,
-["$take **#BP0x0 paper.oxo NFTS**"](https://waxdao.io/farm/paper.oxo)
-Earning WAX PAYBACK program Active,
-["$take **BOPIGOL@alcore.token **"]
-(https://waxdao.io/pool/bpbwaxpoxol)
-
-Earning #BP0x0 NFTs at Discord by using your #bpoxo tools and play the game! [" Discord BoboCoin's Server "](https://discord.gg/w5gqrkkWem)
-
-Earning BP0x0 NFTs by watching my Live Stream redeem your points for.**NFT #BP0x0-13** ( also Package)
-[**Twitch**](https://m.twitch.tv/bobopixel0x0_by_bobocoin)
-
-#BP0x0RAM SUPPORT IS NECESSARY!!! the GAME to DROP a DROP and BLEND a DROP...[**NeftyBlender**](https://neftyblocks.com/creator/bobopixeloxo) 
-
-WHAT YOU NEED FOLLOW the Blender and Blend your Rare NFTs
-
-Lucky Chance very good odds
-[Open PACKAGE's](https://neftyblocks.com/c/bobopixeloxo/packs)
-
-Messages best on Discord.
-
-More about BoboPixel0x0
-[**Discord**](https://discord.gg/QWQgeXN2Tm)
-
-News and fishing
-[**Twitter**](https://twitter.com/Bobocoin1)
-
-Details about BoboPixel0x0 & FakeingHeros
-
-WordPress Quests! MISSION:0 Active,
-[**WordPress Info**](https://bobopixel0x0.wordpress.com/)
-
-NFTs:
-Scheme
-Template
-
-Drops
-Blends
-Staking Pools
-
-FTs:
-Token Economy 
-Base Tokens
-
-Open Market Tokens
-
-Swap pairs 
-
-Not Necessary BUT good to have Tokens
-
-
-
+While not necessary, it's always beneficial to have additional tokens in your possession to enhance your gaming experience. Dive into the world of BoboPixel0x0, and let the fun begin!
