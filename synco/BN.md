@@ -1,6 +1,5 @@
-#    BurningNumbers
+BurningNumbers in the BoboPixel0x0 collection play a crucial role in the leveling and progression system. Here is a list of the BurningNumbers available in the collection:
 
-Burningnumbes are on Blend 2 for 1 Burningnumbes Next Level 
 BP0x0-0
 BP0x0-1
 BP0x0-2
@@ -27,5 +26,4 @@ BP0x0-22
 BP0x0-23
 BP0x0-24
 BP0x0-25
-
-Burningnumbes are on Blend 1 for 1 CollectingNumbers 
+By blending two BurningNumbers together, you can advance to the next level. Additionally, BurningNumbers can also be collected individually. Explore the collection and discover the unique properties and value associated with each BurningNumber.
